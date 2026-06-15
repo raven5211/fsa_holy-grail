@@ -1,3 +1,9 @@
+## important links:
+
+[source repo](https://github.com/FullstackAcademy/holy-grail.git)
+
+---
+
 # Holy Grail
 
 The **Holy Grail** is a website layout that consists of multiple columns sandwiched between a header and a footer. It was historically difficult to achieve, but modern tools such as CSS Grid have provided elegant solutions to this problem.
